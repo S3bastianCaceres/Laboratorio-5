@@ -3,14 +3,14 @@
  # Objetivos
  **Objetivos específicos**
  
-•	Aplicar el teorema de Thévenin de forma correcta, teniendo en cuanta la teoría y conceptos como circuito abierto, divisor de corriente y voltaje, para la resolución del ejercicio planteado
-•	Armar correctamente los circuitos, usando los elementos y valores de resistencias y voltajes asignados.
-•	Determinar los valores de voltaje y corriente en la resistencia que nos indica el ejercicio.
-•	Obtener un error menor del 5% en los valores obtenidos ya sea mediante los cálculos, los que se realizaron en Tinkercad y los obtenidos en Proteus
-•	Construir el circuito equivalente en Tinkercad y realizar las mediciones correspondientes.
+-	Aplicar el teorema de Thévenin de forma correcta, teniendo en cuanta la teoría y conceptos como circuito abierto, divisor de corriente y voltaje, para la resolución del ejercicio planteado
+-	Armar correctamente los circuitos, usando los elementos y valores de resistencias y voltajes asignados.
+-	Determinar los valores de voltaje y corriente en la resistencia que nos indica el ejercicio.
+-	Obtener un error menor del 5% en los valores obtenidos ya sea mediante los cálculos, los que se realizaron en Tinkercad y los obtenidos en Proteus
+-	Construir el circuito equivalente en Tinkercad y realizar las mediciones correspondientes.
 
 
-
+# Proceso
 
 **Circuitos en tinkercad**
 
