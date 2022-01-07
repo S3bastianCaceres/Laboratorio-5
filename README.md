@@ -1,6 +1,9 @@
 # Laboratorio-5
  
  # Objetivos
+ 
+ **Objetivo General**
+ 
  **Objetivos específicos**
  
 -	Aplicar el teorema de Thévenin de forma correcta, teniendo en cuanta la teoría y conceptos como circuito abierto, divisor de corriente y voltaje, para la resolución del ejercicio planteado
@@ -9,8 +12,12 @@
 -	Obtener un error menor del 5% en los valores obtenidos ya sea mediante los cálculos, los que se realizaron en Tinkercad y los obtenidos en Proteus
 -	Construir el circuito equivalente en Tinkercad y realizar las mediciones correspondientes.
 
+# Marco Teorico
 
-# Proceso
+
+
+
+# Explicación del Procedimiento
 
 **Circuitos en tinkercad**
 
@@ -24,5 +31,19 @@
 
 ![imagen](https://user-images.githubusercontent.com/93798427/148468395-148b6659-5f4c-4c21-a9e4-82e8b4f96aab.png)
 
+
+# Respuesta al Interrogante y Calculo del Error
+
+
+
+# Video
+
+
+
+# Conclusiones
+
+
+
+# Bibliografía
 
 
