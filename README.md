@@ -32,6 +32,12 @@
 ![imagen](https://user-images.githubusercontent.com/93798427/148468395-148b6659-5f4c-4c21-a9e4-82e8b4f96aab.png)
 
 
+Procedimiento 
+
+[![Thevenin-1.png](https://i.postimg.cc/v861mmD8/Thevenin-1.png)](https://postimg.cc/t7pRSph8)
+
+[![Thevenin-2.png](https://i.postimg.cc/fRgZXxgG/Thevenin-2.png)](https://postimg.cc/Hr5f17mz)
+
 # Respuesta al Interrogante y Calculo del Error
 
 
