@@ -4,6 +4,8 @@
  
  **Objetivo General**
  
+ - Analizar y comprobar experimentalmente el Teorema de Thévenin aplicandolo a traves de su solución analógica y su simulacion en programas como tinkercad y proteus, de esta manera familiarizarse con el concepto y su efectividad dentro de la resolución de circuitos resistivos. 
+ 
  **Objetivos específicos**
  
 -	Aplicar el teorema de Thévenin de forma correcta, teniendo en cuanta la teoría y conceptos como circuito abierto, divisor de corriente y voltaje, para la resolución del ejercicio planteado
@@ -14,7 +16,7 @@
 
 # Marco Teorico
 
-
+[![Marco-Teorico.png](https://i.postimg.cc/7ZB1n9TN/Marco-Teorico.png)](https://postimg.cc/tsxVXhk1)
 
 
 # Explicación del Procedimiento
@@ -83,8 +85,27 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
 ![imagen](https://user-images.githubusercontent.com/93798427/148468395-148b6659-5f4c-4c21-a9e4-82e8b4f96aab.png)
 
+**Circuito en Proteus**
 
-Procedimiento 
+Circuito Original
+
+![image](https://user-images.githubusercontent.com/93739242/148840406-223f5137-1635-41eb-a0ed-b51f04bbb54f.png)
+
+Desconectando R5
+
+![image](https://user-images.githubusercontent.com/93739242/148840508-d06aa658-498e-4e49-b707-78a2c258d003.png)
+
+Quitando las fuentes de Energia
+
+![image](https://user-images.githubusercontent.com/93739242/148840632-76e400b8-cfd8-428a-aa8b-74cb9d4e89e4.png)
+
+Circuito Equivalente de Thevenin
+
+![image](https://user-images.githubusercontent.com/93739242/148840943-90dffb3e-f689-40ac-94b0-d608acb34677.png)
+
+
+
+**Procedimiento** 
 
 [![Thevenin-1.png](https://i.postimg.cc/v861mmD8/Thevenin-1.png)](https://postimg.cc/t7pRSph8)
 
@@ -115,5 +136,7 @@ Procedimiento
 
 
 # Bibliografía
+
+- X. (2020, 20 julio). de Thevenin explicado para que lo Entiendas. Teorema. https://www.teorema.top/teorema-de-thevenin/
 
 
