@@ -94,16 +94,16 @@ Procedimiento
 
 |**VTH (V)**|  | **RTH (Ω)**| |
 |:---: | :---: |:---: | :---: |
-| MEDIDO |          |  MEDIDO  |    |
-| CALCULADO |      |  CALCULADO  |     |
+| MEDIDO |    5.06 V      |  MEDIDO  |  299 Ω  |
+| CALCULADO |   5.04 V   |  CALCULADO  |  298.9 Ω   |
 
 
 
 | **PARAMETRO ELECTRICO** |**CIRCUITO ORIGINAL**|  | **CIRCUITO EQUIVALENTE DE THEVENIN**| |
 |:---: | :---: |:---: | :---: | :---: |
 | | Calculado  |    Medido      |  Calculado  |  Medido  |
-| Voltaje (V) |  |          |    |    |
-| Corriente (mA) |  |      |    |     |
+| Voltaje (V) | 3.89 V |     3.88 V     |    |    |
+| Corriente (mA) | 3.89 mA |   3.88 mA   |    |     |
 
 
 # Video
