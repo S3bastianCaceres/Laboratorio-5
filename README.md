@@ -18,7 +18,6 @@
 
 [![Marco-Teorico.png](https://i.postimg.cc/7ZB1n9TN/Marco-Teorico.png)](https://postimg.cc/tsxVXhk1)
 
-
 # Explicación del Procedimiento
 
 **Requisitos Previos**
