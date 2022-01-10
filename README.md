@@ -84,6 +84,15 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
 ![imagen](https://user-images.githubusercontent.com/93798427/148843640-ab0343d7-2071-454b-afb4-c8b27cee7524.png)
 
+**Utilizando el potenciometro de 500ohms**
+
+[![Thevenin-final.png](https://i.postimg.cc/K85sTCbp/Thevenin-final.png)](https://postimg.cc/gxnDFSn3)
+
+**Resistencia del potenciometro**
+
+[![Thevenin-final-2.png](https://i.postimg.cc/hG68Q0X3/Thevenin-final-2.png)](https://postimg.cc/R31JjKQc)
+
+
 **Circuito en Proteus**
 
 Circuito Original
