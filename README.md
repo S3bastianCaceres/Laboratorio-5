@@ -83,7 +83,7 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
 ![imagen](https://user-images.githubusercontent.com/93798427/148468378-d0136f9e-dc57-4dc4-8e8a-a638349cdbbf.png)
 
-![imagen](https://user-images.githubusercontent.com/93798427/148468395-148b6659-5f4c-4c21-a9e4-82e8b4f96aab.png)
+![imagen](https://user-images.githubusercontent.com/93798427/148843640-ab0343d7-2071-454b-afb4-c8b27cee7524.png)
 
 **Circuito en Proteus**
 
