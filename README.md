@@ -119,6 +119,14 @@ Circuito Equivalente de Thevenin
 | CALCULADO |   5.04 V   |  CALCULADO  |  298.9 Ω   |
 
 
+| **VTH(V)** |  | **RTH(Ω)**|
+| ------------- | ------------- | ------------- | 
+| MEDIDO | 5.06V |  |MEDIDO|299|
+| CALCULADO |  |5.04V |CALCULADO|298.09|
+| % ERROR|  0.39% |  | %ERROR | 0.03% |
+
+
+
 
 | **PARAMETRO ELECTRICO** |**CIRCUITO ORIGINAL**|  | **CIRCUITO EQUIVALENTE DE THEVENIN**| |
 |:---: | :---: |:---: | :---: | :---: |
@@ -135,6 +143,7 @@ Circuito Equivalente de Thevenin
 
 -La aplicación del teorema de Thevenin facilito la resolución del circuito, permitiendo plantear un circuito más sencillo para analizar. 
 -Al obtener los valores teoricos y compararlos con los medidos se observa que no hay mucha diferencia asegurando asi que el circuito resuelto y armado en un simulador y sus resultados estan correctos.
+-
 
 
 # Bibliografía
