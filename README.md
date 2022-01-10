@@ -127,7 +127,7 @@ Circuito Equivalente de Thevenin
 | | Calculado  |    Medido      |  Calculado  |  Medido  |
 | Voltaje (V) | 3.88 V |     3.89 V     |  3.88 V  |  3.89 V  |
 | Corriente (mA) | 3.88 mA |   3.89 mA   |  3.88 mA  |  3.89 mA   |
-
+| %ERROR | | 0.25% | | 0.25% | 
 
 
 # Video
