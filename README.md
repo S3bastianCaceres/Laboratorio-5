@@ -133,6 +133,8 @@ Circuito Equivalente de Thevenin
 
 # Conclusiones
 
+-La aplicación del teorema de Thevenin facilito la resolución del circuito, permitiendo plantear un circuito más sencillo para analizar. 
+-Al 
 
 
 # Bibliografía
