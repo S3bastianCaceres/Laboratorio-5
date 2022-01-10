@@ -134,7 +134,7 @@ Circuito Equivalente de Thevenin
 # Conclusiones
 
 -La aplicación del teorema de Thevenin facilito la resolución del circuito, permitiendo plantear un circuito más sencillo para analizar. 
--Al 
+-Al obtener los valores teoricos y compararlos con los medidos se observa que no hay mucha diferencia asegurando asi que el circuito resuelto y armado en un simulador y sus resultados estan correctos.
 
 
 # Bibliografía
