@@ -119,7 +119,7 @@ Circuito Equivalente de Thevenin
 | CALCULADO |   5.04 V   |  CALCULADO  |  298.9 Ω   |
 
 
-| **VTH(V)** |  | **RTH(Ω)**|
+| **VTH(V)** |  FSDF   | **RTH(Ω)**|
 | ------------- | ------------- | ------------- | 
 | MEDIDO | 5.06V |  | MEDIDO | 299 |
 | CALCULADO | 5.04V |  | CALCULADO | 298.09 |
