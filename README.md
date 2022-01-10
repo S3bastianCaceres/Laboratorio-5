@@ -121,9 +121,9 @@ Circuito Equivalente de Thevenin
 
 | **VTH(V)** |  | **RTH(Ω)**|
 | ------------- | ------------- | ------------- | 
-| MEDIDO | 5.06V |  |MEDIDO|299|
-| CALCULADO |  |5.04V |CALCULADO|298.09|
-| % ERROR|  0.39% |  | %ERROR | 0.03% |
+| MEDIDO | 5.06V |  | MEDIDO | 299 |
+| CALCULADO | 5.04V |  | CALCULADO | 298.09 |
+| % ERROR |  0.39% |  | %ERROR | 0.03% |
 
 
 
